@@ -20,7 +20,7 @@
 [![An image of @tanishqgoyal07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishqgoyal07)](https://holopin.io/@tanishqgoyal07)
 
 Check out my Holopin profile to view my achievements and badges!
-<p><img align="left" src="" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqgoyal07&show_icons=true&locale=en" alt="tanishqgoyal07" /></p>
 
