@@ -20,7 +20,7 @@
 [![An image of @tanishqgoyal07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishqgoyal07)](https://holopin.io/@tanishqgoyal07)
 
 Check out my Holopin profile to view my achievements and badges!
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=tanishqgoyal07&show_icons=true&locale=en&layout=compact" alt="tanishqgoyal07](https://camo.githubusercontent.com/115045e7515404a2e3dd230f1544b35db5dae13aea1c38ae9aa51d735e66fd40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d74616e69736871676f79616c30372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)" /></p>
+<p><img align="left" src="" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqgoyal07&show_icons=true&locale=en" alt="tanishqgoyal07" /></p>
 
